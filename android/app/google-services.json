@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902347360551",
+    "project_id": "connectify-chat-app-da10f",
+    "storage_bucket": "connectify-chat-app-da10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902347360551:android:1189aa67c11170b928c102",
+        "android_client_info": {
+          "package_name": "com.example.connectify_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZs7xgO3J0npMt00dx0Va1pt-ztlReL5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
