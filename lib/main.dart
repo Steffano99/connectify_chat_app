@@ -11,7 +11,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: SplashScreen(),
+      title: 'Connectify',
+      theme: ThemeData(
+          // scaffoldBackgroundColor:
+          ),
+      home: SplashScreen(
+        key: UniqueKey(),
+        onInitializationComplete: () {},
+      ),
     );
   }
 }
